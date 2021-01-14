@@ -35,13 +35,10 @@ class Mint:
         self.coin = []
 
     def create(self, kind):
-        if kind == Nickel:
-            return Nickel(self.year)
-        elif kind == Dime:
-            return Dime(self.year)
+        return kind(self.year)
 
     def update(self):
-        self.year = Mint.current_year
+        self.year = self.current_year
 
 
 class Coin:
