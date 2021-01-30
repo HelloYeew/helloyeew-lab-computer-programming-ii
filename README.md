@@ -1,6 +1,6 @@
 # HelloYeew's Laboratory of Computer Programming II
 
-![Calliope Pain](calliopepain.gif)
+![Ame Roll](ameminecraft.gif)
 
 All of my python files from Laboratory of Computer Programming II in SKE second term year 1.
 
