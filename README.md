@@ -9,3 +9,5 @@ In this repo I put everything in this course into this repo (PDF problem too)
 I always upload this after deadline of assignment. (Or sometime I forget it.)
 
 *This repositories is protect by งานของตู LICENSE. [Read It Please](LICENSE)*
+
+*This repositories I'm no longer maintain or push a new work in this so I'm going to archive this repositories.*
